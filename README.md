@@ -88,7 +88,7 @@ server_socket.close()
 
 ## client
 ~~~
-2. Client Program (client.py)
+
 import socket
 
 # Create socket
